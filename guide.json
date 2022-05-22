@@ -39,7 +39,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#FFFFFF"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -65,7 +65,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#FFFFFF"
       },
       {
         "title": "Bloody Mary",
@@ -78,7 +78,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#FFFFFF"
       },
       {
         "title": "Twisted Lands: Shadow Town",
@@ -91,7 +91,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#FFFFFF"
       }
     ]
 
